@@ -1,2 +1,1 @@
-sshUserFinder
-=============
+#SSH User Finder
